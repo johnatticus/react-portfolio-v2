@@ -18,9 +18,9 @@ const Intro = () => {
                         <div className="i-title-item">Node.js</div>
                     </div>
                 </div>
-                <div className="i-desc">
+                <p className="i-desc">
                     Currently finishing up education to become a full stack web developer. Working in HTML, CSS, Javascript, Node.js, APIs, MySQL, MongoDB, React.js and more.
-                </div>
+                </p>
             </div>
         </div>
         <div className="i-right">
