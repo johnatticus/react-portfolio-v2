@@ -37,12 +37,6 @@
 
 ---
 
-## Contributions
-
-N/A
-
----
-
 ## Questions
 **Github account:** [johnatticus](https://github.com/johnatticus)
 
@@ -50,5 +44,5 @@ N/A
 
 **GitHub Repo:** [Click Here](https://github.com/johnatticus/react-portfolio-v2)
 
-**GitHub Live Link:** [Click Here](https://johnatticus.github.io/react-portfolio-v2)
+**GitHub Live Link:** [Click Here](https://johnatticus.github.io/react-portfolio-v2/)
 
