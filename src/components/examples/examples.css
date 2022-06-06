@@ -42,11 +42,17 @@
   
   .p-img {
     width: 100%;
-    transition: all 10s ease;
+    height: 100%;
+    object-fit: cover;
+    /* transition: all 10s ease; */
+    opacity:0.25;
+    transition: 1s ease;
   }
   
   .p:hover .p-img {
-    transform: translateY(-100%);
+    /* transform: translateY(-100%); */
+    opacity:1;
+    transition: 1s ease;
   }
   
   @media screen and (max-width: 480px) {

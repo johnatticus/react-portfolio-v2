@@ -1,12 +1,12 @@
 export const examples = [
     {
       id: 1,
-      img: "https://raw.githubusercontent.com/johnatticus/react-portfolio-v2/main/src/img/friendsintraining.png",
+      img: "https://raw.githubusercontent.com/johnatticus/friends-in-training/main/public/images/signUp.png",
       link: "https://afternoon-island-74965.herokuapp.com/login",
     },
     {
       id: 2,
-      img: "https://raw.githubusercontent.com/johnatticus/react-portfolio-v2/main/src/img/economiceats.png",
+      img: "https://user-images.githubusercontent.com/99369137/163577743-4a735fde-5b2c-4311-bde2-5be432e952c9.png",
       link: "https://guzzemetti.github.io/economic-eats/",
     },
     {
@@ -16,12 +16,12 @@ export const examples = [
     },
     {
       id: 4,
-      img: "https://raw.githubusercontent.com/johnatticus/react-portfolio-v2/main/src/img/quizgame.png",
+      img: "https://raw.githubusercontent.com/johnatticus/Quiz-Game/main/assets/images/quizscreenshot.png",
       link: "https://johnatticus.github.io/Quiz-Game/",
     },
     {
       id: 5,
-      img: "https://raw.githubusercontent.com/johnatticus/react-portfolio-v2/main/src/img/passwordgenerator.png",
+      img: "https://raw.githubusercontent.com/johnatticus/Password_Generator/main/pwgeneratorscreenshot.png",
       link: "https://johnatticus.github.io/Password_Generator/",
     },
     {
