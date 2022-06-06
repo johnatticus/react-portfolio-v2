@@ -2,6 +2,7 @@ import About from "./components/about/About";
 import Intro from "./components/intro/Intro";
 import ExamplesList from "./components/examplesList/ExamplesList";
 import Contact from "./components/contact/Contact";
+import "./app.css"
 
 const App = () => {
   return (

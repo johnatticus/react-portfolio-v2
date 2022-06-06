@@ -24,10 +24,10 @@ export const examples = [
       img: "https://raw.githubusercontent.com/johnatticus/react-portfolio-v2/main/src/img/passwordgenerator.png",
       link: "https://johnatticus.github.io/Password_Generator/",
     },
-    // {
-    //   id: 6,
-    //   img: "",
-    //   link: "http://lama.dev",
-    // },
+    {
+      id: 6,
+      img: "https://raw.githubusercontent.com/johnatticus/Social-Network-API/main/assets/images/screenshot.png",
+      link: "https://github.com/johnatticus/Social-Network-API",
+    },
   ];
   
