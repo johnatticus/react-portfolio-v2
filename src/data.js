@@ -1,7 +1,7 @@
 export const examples = [
     {
       id: 1,
-      img: "",
+      img: "./img/friendsintraining.png",
       link: "http://lama.dev",
     },
     {

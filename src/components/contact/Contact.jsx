@@ -50,7 +50,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Github} alt="" />
-              <a href="https://johnatticus.github.com" target="_blank" rel="noreferrer">johnatticus</a>
+              <a href="https://github.com/johnatticus" target="_blank" rel="noreferrer">johnatticus</a>
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@ const Contact = () => {
             <input type="text" placeholder="Email" name="user_email" />
             <textarea rows="5" placeholder="Message" name="message" />
             <button>Submit</button>
-            {done && "Thank you..."}
+            {done}
           </form>
         </div>
       </div>
