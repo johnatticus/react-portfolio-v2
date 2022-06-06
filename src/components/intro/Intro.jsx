@@ -8,7 +8,7 @@ const Intro = () => {
         <div className="i-left">
             <div className="i-left-wrapper">
                 <h2>Hello, my name is</h2>
-                <h1 className="i-name">John A Hysong</h1>
+                <h1 className="i-name">John Hysong</h1>
                 <div className="i-title">
                     <div className="i-title-wrapper">
                         <div className="i-title-item">Full Stack Web Developer</div>
@@ -18,14 +18,14 @@ const Intro = () => {
                         <div className="i-title-item">Node.js</div>
                     </div>
                 </div>
-                <p className="i-desc">
+                {/* <p className="i-desc">
                     Currently finishing up education to become a full stack web developer. Working in HTML, CSS, Javascript, Node.js, APIs, MySQL, MongoDB, React.js and more.
-                </p>
+                </p> */}
             </div>
         </div>
         <div className="i-right">
             <div className="i-bg"></div>
-            <img src={Me} alt="" className="i-img" />
+            {/* <img src={Me} alt="" className="i-img" /> */}
         </div>
     </div>
   )

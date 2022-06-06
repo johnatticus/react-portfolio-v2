@@ -3,6 +3,7 @@ import "./about.css";
 import BigCode from "../../img/bigcode.jpg";
 import SmallCode from "../../img/smallcode.jpg";
 import Award from "../../img/award.png";
+import Me from "../../img/me.jpg"
 
 const About = () => {
   return (
@@ -10,7 +11,7 @@ const About = () => {
       <div className="a-left">
         <div className="a-card bg"></div>
         <div className="a-card">
-          <img src={BigCode} alt="" className="a-img" />
+          <img src={Me} alt="" className="a-img" />
         </div>
       </div>
       <div className="a-right">
