@@ -1,5 +1,5 @@
 import "./examples.css";
-import React from 'react'
+// import React from 'react'
 
 const Examples = ({img,link}) => {
   return (

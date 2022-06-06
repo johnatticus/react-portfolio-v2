@@ -1,8 +1,7 @@
 import React from "react";
 import "./about.css";
-import BigCode from "../../img/bigcode.jpg";
-import SmallCode from "../../img/smallcode.jpg";
-import Award from "../../img/award.png";
+// import BigCode from "../../img/bigcode.jpg";
+// import SmallCode from "../../img/smallcode.jpg";
 import Me from "../../img/me.jpg"
 
 const About = () => {
