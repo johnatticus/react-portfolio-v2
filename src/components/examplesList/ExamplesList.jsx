@@ -1,6 +1,6 @@
 import React from 'react'
 import "./examplesList.css";
-import Example from "../examples/Examples"
+import Examples from "../examples/Examples"
 import { examples } from "../../data";
 
 export const ExamplesList = () => {
@@ -14,7 +14,7 @@ export const ExamplesList = () => {
       </div>
       <div className="pl-list">
         {examples.map((item) => (
-          <Example key={item.id} img={item.img} link={item.link} />
+          <Examples key={item.id} img={item.img} link={item.link} />
         ))}
       </div>
     </div>
