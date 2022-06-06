@@ -42,7 +42,7 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Linkedin} alt="" className="c-icon" />
-              <a href="www.linkedin.com/in/johnhysong" target="_blank" rel="noreferrer">Linked In</a>
+              <a href="https://www.linkedin.com/in/johnhysong/" target="_blank" rel="noreferrer">Linked In</a>
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
